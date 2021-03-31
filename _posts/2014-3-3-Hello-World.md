@@ -13,4 +13,4 @@ As for now, I'll try to post a render of the nanoparticle I'm working on and hop
 the resolution will be decent enough...
 
 
-![]({{ site.baseurl }}/.2014-3-3-Hello-World_images/25807393.png)
+[_config.yml]({{ site.baseurl }}/.2014-3-3-Hello-World_images/25807393.png)
