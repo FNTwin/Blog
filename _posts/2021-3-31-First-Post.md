@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post
+tags: [test tag]
 ---
 
 As I'm going to use this blog as some sort of work diary, I'll start with a heads up:
