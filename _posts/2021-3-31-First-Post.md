@@ -13,4 +13,4 @@ As for now, I'll try to post a render of the nanoparticle I'm working on and hop
 the resolution will be decent enough...
 
 
-![](https://github.com/FNTwin/blog/blob/master/images/NP_render_1.png)
+![image](https://github.com/FNTwin/blog/blob/master/images/NP_render_1.png)
