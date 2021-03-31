@@ -1,13 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: First post
 ---
 
-Prova di visualizzazione 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+As I'm going to use this blog as some sort of work diary, I'll start with a heads up:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+There will be *a lot* of molecular dynamics workflows (_with some 
+python scripting by the side_) for a bit...hopefully I will find some time 
+to do some interesting stuff with machine learning but for now I doubt it.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+As for now, I'll try to post a render of the nanoparticle I'm working on and hopefully
+the resolution will be decent enough...
 
-Test
+
+![](.2014-3-3-Hello-World_images/25807393.png)
